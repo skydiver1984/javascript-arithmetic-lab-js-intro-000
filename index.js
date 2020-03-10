@@ -18,3 +18,8 @@ function increment(number) {
   number ++
   return number
 }
+
+function decrement(number){
+  numberr --
+  return number
+}
