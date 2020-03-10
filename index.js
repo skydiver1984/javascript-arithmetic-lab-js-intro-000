@@ -12,8 +12,3 @@ function multiply(x, y)  {
 
   return x * y
 }
-function increment(n) {
-var n =5
-return n++
-
-}
