@@ -15,5 +15,5 @@ function multiply(x, y)  {
 var number = 10
 
 function increment(number) {
-  return number+=
+  return number ++
 }
