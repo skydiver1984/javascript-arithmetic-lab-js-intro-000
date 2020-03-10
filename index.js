@@ -12,7 +12,7 @@ function multiply(x, y)  {
 
   return x * y
 }
-var number = 10
+
 
 function increment(number) {
   return number ++
