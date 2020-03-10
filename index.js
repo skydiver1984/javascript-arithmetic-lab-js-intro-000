@@ -17,9 +17,3 @@ var number = 10
 function increment(number) {
   return number+=
 }
-
-
-
-
-
-
