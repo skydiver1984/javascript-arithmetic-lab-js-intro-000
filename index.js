@@ -20,6 +20,6 @@ function increment(number) {
 }
 
 function decrement(number){
-  numberr --
+  number --
   return number
 }
